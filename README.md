@@ -1,13 +1,14 @@
-# STUDENT MANAGEMENT DEMO APPLICATION
-# TRAINING COURSE OF MULODO COMPANY
-# 2017
-# NGUYEN VINH PHUC
-# CREATED AT: 12/10/2017
+## STUDENT MANAGEMENT DEMO APPLICATION
+## TRAINING COURSE OF MULODO COMPANY
+## NGUYEN VINH PHUC
+## CREATED AT: 12/10/2017
+## 2017
 <return>
+
 Introduction
 ----------------------------------------------------------
-* In this project, you’ll learn how to build an application on App Cloud from zero to hero :D.
-* You will build a student management application that allows administrators to manage candidates and their scores after training courses.
+> In this project, you’ll learn how to build an application on App Cloud from zero to hero :D.
+> You will build a student management application that allows administrators to manage candidates and their scores after training courses.
 
 Detail Requirements
 ----------------------------------------------------------
