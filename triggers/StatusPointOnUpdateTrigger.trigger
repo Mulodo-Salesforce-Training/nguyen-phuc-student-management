@@ -1,4 +1,5 @@
 trigger StatusPointOnUpdateTrigger on Student__c ( after update ) {
+
     if ( Trigger.isUpdate && Trigger.isAfter ) {
         // Detect if status change to disabled value and get list record
         List< Student__c > listStudentDisabled    = new List< Student__c >();
@@ -43,4 +44,5 @@ trigger StatusPointOnUpdateTrigger on Student__c ( after update ) {
         }
 
     }
+
 }
