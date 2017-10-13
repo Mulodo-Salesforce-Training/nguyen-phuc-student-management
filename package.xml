@@ -3,6 +3,7 @@
 	<types>
 		<members>StatusPointOnUpdateTrigger</members>
 		<members>CreatePointOnInsertTrigger</members>
+		<members>ActiveToPointOnUpdate</members>
 		<name>ApexTrigger</name>
 	</types>
 	<version>40.0</version>
