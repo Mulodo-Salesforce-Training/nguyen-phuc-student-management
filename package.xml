@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-	<types>
-		<members>StudentTrigger</members>
-		<members>StudentScoringSkillTrigger</members>
-		<members>StudentStatusUpdate</members>
-		<members>StudentStatusTrigger</members>
-		<members>StatusChangeTrigger</members>
-		<members>StatusPointOnUpdateTrigger</members>
-		<name>ApexTrigger</name>
-	</types>
-	<types>
-		<members>StudentScoringSkill</members>
-		<members>StudentScoringSkillAPI</members>
-		<name>ApexClass</name>
-	</types>
-	<version>40.0</version>
+    <types>
+        <members>StatusPointOnUpdateTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <version>40.0</version>
 </Package>
